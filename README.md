@@ -22,7 +22,7 @@ Setting the right price for an Airbnb property is challenging. Prices that are t
 - **Visualization**: Geospatial mapping with Folium
 
 ## 📁 Dataset
-The dataset is sourced from Kaggle and contains Airbnb listings with various features such as location, price, amenities, and reviews. Due to data privacy, the dataset is not included in this repository but can be obtained from [Kaggle](https://www.kaggle.com/datasets/stevezhenghp/airbnb-price-prediction/data?select=train.csv).
+The dataset is sourced from Kaggle and contains Airbnb listings with various features such as location, price, amenities, and reviews. Due to data size, the dataset is not included in this repository but can be obtained from [Kaggle](https://www.kaggle.com/datasets/stevezhenghp/airbnb-price-prediction/data?select=train.csv).
 
 ---
 
